@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Visitor Count](https://komarev.com/ghpvc/?username=roh1t-mishra&color=blue&style=flat-square)
+
 <!--
 **Rohit27037/Rohit27037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
